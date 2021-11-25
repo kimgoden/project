@@ -33,11 +33,13 @@
 - 1차적 분석이 끝난 후, 해당 결과값을 바탕으로 각 요인들간의 인과관계를 정리하기 위해 추가적 분석을 진행합니다.
 - 추가적인 분석에 대해서도 1차 분석과 마찬가지로 눈에띄는 핵심 데이터만을 정리해줍니다.
 - 정리된 데이터들을 보기좋은 방향으로 시각화를 진행하여 분석 자료에 함께 첨부합니다.
-
+- [분석 진행을 위한 코드 연습](https://github.com/kimgoden/project/tree/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/code)
 3. 분석결과 작성
 - 시각화 결과물에서 가장 핵심적인 요소들을 정리하여 작성한 후, 해당 결과가 어떤 요인들에 의한 결과인지 추가적 정보와 함께 추론을 작성합니다.
 - 해당 분석을 통해 처응에 알고자 했던 정보를 알 수 있었는지, 새롭게 알게된 사실이 있는지에 대해 작성하고, 분석에 대한 한계점을 작성합니다.
 
-
+4. 최종 결과물 작성
+[kaggle 제출 코드(영문버전)](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/comparative-analysis-of-kor-ch-jap-and-usa.ipynb)
+[kaggle 제출 코드(한글버전)]
 ### 분석 데이터 다운로드
-[kaggle_survey_2021_responses.csv](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/kaggle_survey_2021_responses.csv)
+[kaggle_survey_2021_responses.csv](https://github.com/kimgoden/project/tree/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/data)
