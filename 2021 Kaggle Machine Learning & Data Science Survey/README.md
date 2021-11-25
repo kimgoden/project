@@ -47,7 +47,7 @@
 - 시각화 결과물에서 가장 핵심적인 요소들을 정리하여 작성한 후, 해당 결과가 어떤 요인들에 의한 결과인지 추가적 정보와 함께 추론을 작성합니다.
 - 해당 분석을 통해 처응에 알고자 했던 정보를 알 수 있었는지, 새롭게 알게된 사실이 있는지에 대해 작성하고, 분석에 대한 한계점을 작성합니다.
 
-###최종 결과물 작성
+### 최종 결과물 작성
 [kaggle 제출 코드(영문버전)](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/comparative-analysis-of-kor-ch-jap-and-usa.ipynb)
 [kaggle 제출 코드(한글버전)](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/kaggle%20%EC%A0%9C%EC%B6%9C%20%EC%BD%94%EB%93%9C%20%ED%95%9C%EA%B8%80%EB%B2%84%EC%A0%84.ipynb)
 [최종 결과물 PDF](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/docs/Kaggle_%ED%95%9C%EC%A4%91%EC%9D%BCVS%EB%AF%B8%EA%B5%AD_%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D%20%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
