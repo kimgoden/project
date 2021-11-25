@@ -39,5 +39,5 @@
 - 해당 분석을 통해 처응에 알고자 했던 정보를 알 수 있었는지, 새롭게 알게된 사실이 있는지에 대해 작성하고, 분석에 대한 한계점을 작성합니다.
 
 
-### 분석 데이터
-[파일은 링크는 이따가 걸어볼게여]
+### 분석 데이터 다운로드
+[kaggle_survey_2021_responses.csv](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/kaggle_survey_2021_responses.csv)
