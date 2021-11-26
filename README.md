@@ -70,4 +70,4 @@
 - 대회주제 : 2021년 캐글 이용자 설문 응답을 기반으로 자유로운 데이터 분석 및 시각화
 - 팀 주제 : 한국, 미국, 중국, 일본 유저의 응답과 항목별 비율을 비교하여 IT산업과 빅데이터 분야의 관심도와 발전수준 분석
 - 대회제출 결과물 : [대회링크](https://www.kaggle.com/kimgoden/comparative-analysis-of-kor-ch-jap-and-usa)
-- 대회 발표자료 : [PDF](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/docs/Kaggle_%ED%95%9C%EC%A4%91%EC%9D%BCVS%EB%AF%B8%EA%B5%AD_%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D%20%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
+- 대회 발표자료 : [PDF](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/docs/Kaggle_%ED%95%9C%EC%A4%91%EC%9D%BCVS%EB%AF%B8%EA%B5%AD_%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D_%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
