@@ -6,9 +6,12 @@
 - [Kaggle](https://www.kaggle.com/) 은 2010년 2010년 4월에 설립된 공공 및 기업 데이터를 활용하여 문제를 해결하는 머신러닝 경진대회 플랫폼입니다.
 - 캐글에서 주어지는 문제들은 주로 기업이나 단체가 해결하고 싶은 문제가 등록이 됩니다. 그리고 문제를 풀려고 참여한 많은 데이터 과학자, 데이터 분석가, 통계학자, 머신러닝 엔지니어 등등 많은 개개인들이 경쟁하며 가장 높은 점수를 내는 구조입니다.
 - 이러한 캐글에서 매년 kaggler(캐글을 이용하는 사람을 뜻한다.)들을 상대로 그들의 국적, 직업, 성별, 나이, 경력 등... 다양한 설문을 통해 데이터를 만들고 이를 분석하는 대회를 주최합니다.
+<hr>
 
 ### 대회 목적
 - 캐글의 이런 설문 데이터는 IT산업과 빅데이터 분야의 종사자이거나 혹은 그 분야에 공부를 진행하고 있는 사람들이 대부분입니다. 이러한 데이터 중, 한국, 미국, 중국, 일본 국적의 유저 응답만을 분석하여 4개국의 IT산업과 빅데이터 분야의 관심도와 발전 방향성에 대해서 알 수 있을 것입니다.
+<hr>
+
 
 ### 분석 방향
 1. 캐글에서 제공하는 데이터 프레임을 Python에서 제공하는 다양한 라이브러리를 이용해 데이터를 수정하고, 전처리 과정을 진행한다.
@@ -20,6 +23,8 @@
 
 
 4. 통계적 분석까지 실시된 결과를 바탕으로 추가적인 정보 수집을 통해 4개국의 결과값에 대입하여 결론을 도출한다.
+
+<hr>
 
 
 ### 분석 자료 작성
@@ -34,6 +39,12 @@
 - 정리된 데이터들을 보기좋은 방향으로 시각화를 진행하여 분석 자료에 함께 첨부합니다.
 - [분석 진행을 위한 코드 연습](https://github.com/kimgoden/project/tree/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/code)
 - 시각화 코드 작성 결과물 예시
+  + 국가별 총 응답자수에 편차가 크기 때문에 비율로 데이터를 환산했습니다.
+  + 비율 그래프를 효과적으로 시각화하기 위해 `pie` 차트 형식을 이용했습니다.
+  + 그래프의 활용도를 위해 동적 그래프(`plotly`)라이브러리를 이용했습니다.
+  + 한 페이지에 4개국가의 비율을 한번에 시각화하기 위해 국가별 파이 차트가 나오게 했습니다.
+  + 다만, 깃허브에선 동적그래프 라이브러리를 일반적인 방법으론 지원하지 않기 때문에 자세한 그래프형식은 하단 <strong>죄종 결과물</strong> 부분에서 확인할 수 있습니다.
+  <hr>
   - 각 국가별 연령대 비율에 대한 분석 시각화
 ![q2](https://user-images.githubusercontent.com/93235480/143387848-b5cae5ec-a0c2-415f-a3eb-311df741733f.png)
   - 각 국가별 프로그래밍 경력에 대한 분석 시각화
@@ -47,12 +58,19 @@
 - 시각화 결과물에서 가장 핵심적인 요소들을 정리하여 작성한 후, 해당 결과가 어떤 요인들에 의한 결과인지 추가적 정보와 함께 추론을 작성합니다.
 - 해당 분석을 통해 처응에 알고자 했던 정보를 알 수 있었는지, 새롭게 알게된 사실이 있는지에 대해 작성하고, 분석에 대한 한계점을 작성합니다.
 
+
+<hr>
+
 ### 최종 결과물 작성
 [kaggle 제출 코드(영문버전)](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/comparative-analysis-of-kor-ch-jap-and-usa.ipynb)
 
 [kaggle 제출 코드(한글버전)](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/kaggle%20%EC%A0%9C%EC%B6%9C%20%EC%BD%94%EB%93%9C%20%ED%95%9C%EA%B8%80%EB%B2%84%EC%A0%84.ipynb)
 
 [최종 결과물 PDF](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/docs/Kaggle_%ED%95%9C%EC%A4%91%EC%9D%BCVS%EB%AF%B8%EA%B5%AD_%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D_%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
+
+
+<hr>
+
 
 ### 분석 데이터 다운로드
 [kaggle_survey_2021_responses.csv](https://github.com/kimgoden/project/tree/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/data)
