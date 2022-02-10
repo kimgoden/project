@@ -71,3 +71,18 @@
 - 팀 주제 : 한국, 미국, 중국, 일본 유저의 응답과 항목별 비율을 비교하여 IT산업과 빅데이터 분야의 관심도와 발전수준 분석
 - 대회제출 결과물 : [대회링크](https://www.kaggle.com/kimgoden/comparative-analysis-of-kor-ch-jap-and-usa)
 - 대회 발표자료 : [PDF](https://github.com/kimgoden/project/blob/main/2021%20Kaggle%20Machine%20Learning%20%26%20Data%20Science%20Survey/docs/Kaggle_%ED%95%9C%EC%A4%91%EC%9D%BCVS%EB%AF%B8%EA%B5%AD_%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D_%EC%A7%84%EC%A7%9C%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
+
+<hr>
+
+### DACON 2021 구직자를 위한 시각화 경진대회
+- 폴더명 : [2021 DACON Corporate Trend Visualization Competition](https://github.com/kimgoden/project/tree/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/docs)
+- 기간 : 2021.12.06 ~ 2022.01.28
+- 주최 : [한국고용정보원](http://www.keis.or.kr/main/index.do)
+- 주관 : [DACON](https://dacon.io/)
+- 사용언어 : Python
+- 사용툴 : Colab, MySQL, Jupyter Notebook
+- 라이브러리 : `Pandas`, `Pyechatrs`, `BeautifulSoup`, `Konlpy`
+- 대회주제 : 구직자들을 위한 기업 트렌드 정보(구직자가 회사를 선택하는 다양한 기준)을 빅데이터 시각화로 구현하고, 정보전달의 효율성을 기대할 수 있는 아이디어 및 인사이트를 발굴
+- 대회제출 결과물 : [대회링크](https://dacon.io/competitions/official/235866/codeshare/4282)
+- 대회 발표자료 : [PDF](https://github.com/kimgoden/project/blob/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/docs/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EA%B5%AC%EC%A7%81%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B2%BD%EC%A7%84%20%EB%8C%80%ED%9A%8C.pdf)
+
