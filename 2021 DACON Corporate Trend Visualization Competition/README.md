@@ -78,10 +78,11 @@
 <hr>
 
 ### 최종 결과물 작성
-
-
+- [데이콘 제출 코드](https://github.com/kimgoden/project/blob/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/code/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%9B%8C%ED%81%AC%EB%84%B7API_%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0_%EB%B6%84%EC%84%9D_%EC%B5%9C%EC%A2%85%EC%A0%9C%EC%B6%9C.ipynb)
+- [최종 발표 자료](https://github.com/kimgoden/project/blob/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/docs/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EA%B5%AC%EC%A7%81%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B2%BD%EC%A7%84%20%EB%8C%80%ED%9A%8C.pdf)
 <hr>
 
-
 ### 분석 데이터 다운로드
-
+- [워크넷_채용정보](https://github.com/kimgoden/project/blob/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/data/%EC%9B%8C%ED%81%AC%EB%84%B7_%EC%B1%84%EC%9A%A9%EC%A0%95%EB%B3%B4_2022_01_19.csv)
+- [직종 코드에 따른 직종 분류](https://github.com/kimgoden/project/blob/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/data/%EC%A7%81%EC%A2%85%EC%BD%94%EB%93%9C.csv)
+- [워크넷_공채속보](https://github.com/kimgoden/project/blob/main/2021%20DACON%20Corporate%20Trend%20Visualization%20Competition/data/%EC%A0%95%EA%B7%9C%EC%A7%81_%EA%B3%B5%EC%B1%84%EC%86%8D%EB%B3%B4.csv)
