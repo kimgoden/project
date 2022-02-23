@@ -1,7 +1,8 @@
 # 포트폴리오
 <hr>
-[포트폴리오]()
 
+[포트폴리오](https://github.com/kimgoden/project/blob/main/portfolio/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%ED%98%95%EC%A4%80.pdf)
+<hr>
 ## 대외활동 및 봉사활동
 <hr>
 
